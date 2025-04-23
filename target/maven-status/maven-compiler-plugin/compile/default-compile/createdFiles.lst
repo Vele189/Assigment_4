@@ -1,0 +1,16 @@
+com\northwind\ui\EmployeesTab.class
+com\northwind\model\Client.class
+com\northwind\ui\CustomersTab.class
+com\northwind\db\DatabaseConnection.class
+com\northwind\model\OrderDetail.class
+com\northwind\model\Product.class
+com\northwind\model\Order.class
+com\northwind\ui\NotificationsTab.class
+com\northwind\model\Employee.class
+com\northwind\NorthwindApp.class
+com\northwind\ui\OrdersTab.class
+com\northwind\ui\ProductsTab.class
+com\northwind\ui\MainWindow.class
+com\northwind\ui\ReportsTab.class
+com\northwind\model\Customer.class
+com\northwind\ui\ReportsTab$WarehouseInventory.class

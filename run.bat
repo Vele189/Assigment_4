@@ -1,0 +1,6 @@
+@echo off
+echo Building Northwind Application...
+call mvn clean package
+echo Running Northwind Application...
+call mvn javafx:run
+pause
